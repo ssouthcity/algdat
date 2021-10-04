@@ -1,0 +1,12 @@
+
+function test() {
+    function readFile(name) {
+    }
+
+    const test = [
+        readFile("one"), 
+        readFile("two"),
+    ];
+}
+
+test();
